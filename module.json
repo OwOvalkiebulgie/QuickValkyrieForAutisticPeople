@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Quick Valkyrie for autistic people",
+    "author": "fck u",
+    "description": "Let's you cast skills faster cause you are too autistic to be good by yourself",
+    "version": "69",
+    "options": {
+        "niceName": "Valk for autists",
+        "reloadable": true
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+    }
+}
